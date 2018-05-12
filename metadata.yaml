@@ -1,0 +1,29 @@
+_repo: The-Miraculous-ConceptionFoundation-of-the-Christian-Religion_40982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Annet, Peter
+    birthdate: 1693
+    deathdate: 1769
+    gutenberg_agent_id: '39243'
+    url: http://www.gutenberg.org/2009/agents/39243
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Annet
+description: ''
+gutenberg_issued: '2012-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Divinity'
+- !lcsh 'Immaculate Conception'
+- !lcc 'BL'
+title: "The Miraculous Conception\r\nOr, The Divinity of Jesus Christ Considered as\
+  \ the Foundation of the Christian Religion"
+url: http://www.gutenberg.org/ebooks/40982
